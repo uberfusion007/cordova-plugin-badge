@@ -1,6 +1,6 @@
 {
   "name": "@uberfusion007/cordova-plugin-badge",
-  "version": "0.8.9",
+  "version": "0.9.0",
   "description": "Shows the count of unread messages as a badge on the app icon.",
   "cordova": {
     "id": "cordova-plugin-badge",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uberfusion007/cordova-plugin-badge.git"
+    "url": "git+https://github.com/uberfusion007/cordova-plugin-badge"
   },
   "keywords": [
     "appplant",
